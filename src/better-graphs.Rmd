@@ -1,6 +1,6 @@
 ---
 title: "Better graphs"
-author: "Paul Sharpe, Andy Wills, Chris Mitchell"
+author: "Paul Sharpe, Andy Wills, Allegra Cattani, Helen Lloyd, Chris Mitchell"
 output:
   html_document:
     highlight: pygment
